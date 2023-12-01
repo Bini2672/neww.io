@@ -1,0 +1,38 @@
+
+.ll{
+    display: grid;
+    max-width: 100%;
+    width: 610px;
+    margin-left: 5px;
+    grid-template-columns: auto auto auto auto  auto auto auto auto auto auto;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 94, 0);
+}
+h1{
+    font-size: 20px;
+    margin-right: 10px;
+    border: 1px solid;
+    border-radius: 80%;
+}
+#opop{
+    margin-top: 25px;
+    padding: 5px;
+    width: 50px;
+    box-shadow:rgb(51, 47, 47) 10px 10px 25px 0px;
+    color: white;
+    background-color: brown;
+}
+.manu{
+    display: grid;
+    max-width: 100%;
+    width: 600px;
+    margin-top: 40px;
+    grid-template-columns: auto auto auto auto auto auto auto  auto auto auto;
+}
+input{
+    width: 50px;
+    text-align: center;
+    margin-left: 5px;
+    font-size: 25px;
+}
